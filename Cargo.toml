@@ -4,5 +4,6 @@ categories = ["development-tools::debugging", "rust-patterns"]
 description = "This allows a program to terminate immediately and provide feedback to the caller of the program.  Unlike panic!, debug_panic! statements are only enabled in non optimized builds by default."
 license = "MIT"
 name = "debug_panic"
+readme = "README.md"
 repository = "https://github.com/kellytk/debug_panic"
-version = "0.1.1"
+version = "0.1.2"
