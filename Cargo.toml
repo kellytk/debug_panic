@@ -5,4 +5,4 @@ description = "This allows a program to terminate immediately and provide feedba
 license = "MIT"
 name = "debug_panic"
 repository = "https://github.com/kellytk/debug_panic"
-version = "0.1.0"
+version = "0.1.1"
