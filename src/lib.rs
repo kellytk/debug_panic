@@ -1,3 +1,5 @@
+#![no_std]
+
 /// Entry point of thread panic.  For details on `panic`, see std::macros.
 ///
 /// # Uses
